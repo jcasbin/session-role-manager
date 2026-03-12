@@ -1,5 +1,4 @@
 # session-role-manager
-[![codebeat badge](https://codebeat.co/badges/998c8e12-ffdd-4196-b2a2-8979d7f1ee8a)](https://codebeat.co/projects/github-com-jcasbin-session-role-manager-master)
 [![build](https://github.com/jcasbin/session-role-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/jcasbin/session-role-manager/actions)
 [![codecov](https://codecov.io/github/jcasbin/session-role-manager/branch/master/graph/badge.svg?token=4YRFEQY7VK)](https://codecov.io/github/jcasbin/session-role-manager)
 [![javadoc](https://javadoc.io/badge2/org.casbin/session-role-manager/javadoc.svg)](https://javadoc.io/doc/org.casbin/session-role-manager)
